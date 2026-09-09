@@ -1,0 +1,23 @@
+Change Physical Footprint: Designator=C1 Old Footprint=CAPACITOR_0402 New Footprint=CAPACITOR_0402
+Change Physical Footprint: Designator=C2 Old Footprint=CAPACITOR_0402 New Footprint=CAPACITOR_0402
+Change Physical Footprint: Designator=C3 Old Footprint=CAPACITOR_0603 New Footprint=CAPACITOR_0603
+Change Physical Footprint: Designator=C4 Old Footprint=CAPACITOR_0402 New Footprint=CAPACITOR_0402
+Change Physical Footprint: Designator=C5 Old Footprint=CAPACITOR_0402 New Footprint=CAPACITOR_0402
+Change Physical Footprint: Designator=C6 Old Footprint=CAPACITOR_0603 New Footprint=CAPACITOR_0603
+Change Physical Footprint: Designator=C7 Old Footprint=CAPACITOR_0402 New Footprint=CAPACITOR_0402
+Change Physical Footprint: Designator=C8 Old Footprint=CAPACITOR_0603 New Footprint=CAPACITOR_0603
+Change Physical Footprint: Designator=C9 Old Footprint=CAPACITOR_0603 New Footprint=CAPACITOR_0603
+Change Physical Footprint: Designator=C10 Old Footprint=CAPACITOR_0603 New Footprint=CAPACITOR_0603
+Change Physical Footprint: Designator=J1 Old Footprint=SAMTEC_TSW-112-07-L-S New Footprint=SAMTEC_TSW-112-07-L-S
+Change Physical Footprint: Designator=J2 Old Footprint=SAMTEC_TSW-112-07-L-S New Footprint=SAMTEC_TSW-112-07-L-S
+Change Physical Footprint: Designator=J3 Old Footprint=USB_C_CONN_1054500101 New Footprint=USB_C_CONN_1054500101
+Change Physical Footprint: Designator=J4 Old Footprint=SAMTEC_TSW-102-07-L-S New Footprint=SAMTEC_TSW-102-07-L-S
+Change Physical Footprint: Designator=LED1 Old Footprint=LED_0603 New Footprint=LED_0603
+Change Physical Footprint: Designator=R1 Old Footprint=RESISTOR_0402 New Footprint=RESISTOR_0402
+Change Physical Footprint: Designator=R2 Old Footprint=RESISTOR_0402 New Footprint=RESISTOR_0402
+Change Physical Footprint: Designator=R3 Old Footprint=RESISTOR_0402 New Footprint=RESISTOR_0402
+Change Physical Footprint: Designator=R4 Old Footprint=RESISTOR_0402 New Footprint=RESISTOR_0402
+Change Physical Footprint: Designator=R5 Old Footprint=RESISTOR_0402 New Footprint=RESISTOR_0402
+Change Physical Footprint: Designator=S1 Old Footprint=SWT0310 - switch New Footprint=SWT0310 - switch
+Change Physical Footprint: Designator=U1 Old Footprint=Quad32-STM32F042K6T6 New Footprint=Quad32-STM32F042K6T6
+Change Physical Footprint: Designator=U2 Old Footprint=LP5912 New Footprint=LP5912

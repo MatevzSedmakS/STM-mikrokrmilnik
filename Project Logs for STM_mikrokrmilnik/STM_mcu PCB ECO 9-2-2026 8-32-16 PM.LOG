@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=y NewDesignator=J1
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetJ1_01
+Change Net Name : Old Net Name=NetU1_18 New Net Name=NetJ1_12
+Change Net Name : Old Net Name=NetU1_19 New Net Name=NetJ1_11
+Change Net Name : Old Net Name=NetU1_20 New Net Name=NetJ1_10
+Change Net Name : Old Net Name=NetU1_23 New Net Name=NetJ1_09
+Change Net Name : Old Net Name=NetU1_24 New Net Name=NetJ1_08
+Change Net Name : Old Net Name=NetU1_25 New Net Name=NetJ1_07
+Change Net Name : Old Net Name=NetU1_26 New Net Name=NetJ1_06
+Change Net Name : Old Net Name=NetU1_27 New Net Name=NetJ1_05
+Change Net Name : Old Net Name=NetU1_28 New Net Name=NetJ1_04
+Change Net Name : Old Net Name=NetU1_29 New Net Name=NetJ1_03
+Change Net Name : Old Net Name=NetU1_30 New Net Name=NetJ1_02

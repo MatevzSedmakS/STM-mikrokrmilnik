@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [STM_mikrokrmilnik.PrjPcb]
+   Generated File[Bill of Materials-STM_mikrokrmilnik.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:35:55 PM On 9/8/2026

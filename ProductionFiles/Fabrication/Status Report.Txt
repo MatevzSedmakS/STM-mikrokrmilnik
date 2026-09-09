@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [STM_mcu.PcbDoc]
+   Generated File[STM_mcu-RoundHoles.TXT]
+   Generated File[STM_mcu-SlotHoles.TXT]
+   Generated File[STM_mcu.LDP]
+   Generated File[STM_mcu.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:41:35 PM On 9/8/2026

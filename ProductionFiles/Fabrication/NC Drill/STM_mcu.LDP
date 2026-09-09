@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: \\Mac\Home\Documents\Sola\6\NacrtovanjeTiskanihVezjiInElektromagnetnaZdruzljivost\STM_mikrokrmilnik\STM_mikrokrmilnik\DesignFiles\PCB\STM_mcu.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=stm_mcu-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=stm_mcu-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl
